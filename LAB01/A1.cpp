@@ -8,7 +8,7 @@ int main() {
   // first step
   int a=12;
   int b=5;
-  int addition,subtraction,multiplication,division,remainder;
+  int addition,subtraction,multiplication,division;
 
   // second step
 
