@@ -3,5 +3,5 @@ using namespace std;
 
 //"submmision"
 int main() {
-  cout << "hello world" << endl;
+  cout << 10*(+7+3) << endl;
 }

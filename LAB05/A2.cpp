@@ -14,6 +14,7 @@ int Num2    = rand() % 10;
 int Correct = Num1 + Num2 ;
 int Answer;
 
+
 // second  step
 cout << "welcome to the math quiz" << endl;
 cout << " you need to answer 10 numbers !" << endl;

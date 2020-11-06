@@ -1,5 +1,5 @@
 #include <iostream>
-#include <math.h>
+#include <cmath>
 using namespace std;
 
 // question no.3 write a c++ program to calculate the volume and surface area of sphere by input the radius
