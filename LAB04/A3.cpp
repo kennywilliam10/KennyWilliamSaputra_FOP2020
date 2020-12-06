@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//Write a C++ program to grade your quiz score.            a. Input 3 score                                          b. Find the average                                       c. Check the grade from the average                         A = >80 | C = 60 - 65                                      AB = 75 - 80 | D = 40 - 60                                  B = 70 - 75 | E = <40                                      BC = 65 - 70 |
+//Write a C++ program to grade your quiz score.       a. Input 3 score                                     b. Find the average                                  c. Check the grade from the average                     A = >80 | C = 60 - 65                                AB = 75 - 80 | D = 40 - 60                           B = 70 - 75 | E = <40                                BC = 65 - 70 |
 
 // first step
 int main() {

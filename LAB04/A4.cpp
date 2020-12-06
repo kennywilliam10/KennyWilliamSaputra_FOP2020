@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//Create a BMI calculator.                                a. Input weight(kg) and height(m)                          b. Calculate the BMI BMI = weight / (height)2             c. Check the BMI                                          Underweight = <18.5                                      Normal = 18.5 - 24.9                                      Overweight = 25 - 29.9                                   Obesity = >30
+//Create a BMI calculator.                           a. Input weight(kg) and height(m)                   b. Calculate the BMI BMI = weight / (height)2        c. Check the BMI                                        Underweight = <18.5                                  Normal = 18.5 - 24.9                                 Overweight = 25 - 29.9                               Obesity = >30
 
 // first step
 int main () {
